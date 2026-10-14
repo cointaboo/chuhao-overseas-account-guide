@@ -125,3 +125,45 @@ AI 类账号的核心是 **套餐类型**，不是价格：
 ## 许可
 
 本文档采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可，欢迎转载与引用。
+
+<!-- 攻略深链索引 -->
+
+## 按问题查攻略
+
+下面每条对应一篇完整攻略，遇到具体问题直接点进去看：
+
+- [Telegram 账号：四种类型怎么挑](https://chuhao.shop/guide/telegram-account-guide.html)
+- [美区 Apple ID 怎么注册（不用信用卡）](https://chuhao.shop/guide/us-apple-id-register.html)
+- [Apple ID 被停用 / 锁定了怎么办](https://chuhao.shop/guide/apple-id-locked.html)
+- [免费 Apple ID 账号密码怎么领](https://chuhao.shop/guide/free-apple-id.html)
+- [共享 Apple ID 安全吗？会不会锁机](https://chuhao.shop/guide/shared-account-safe.html)
+- [X（推特）账号怎么买：选号与防封](https://chuhao.shop/guide/x-account-buy.html)
+- [X（推特）必看手册](https://chuhao.shop/guide/x-account-manual.html)
+- [X 蓝V会员多少钱：价格档位与开通方法](https://chuhao.shop/guide/x-premium.html)
+- [Instagram 注册与账号选购](https://chuhao.shop/guide/instagram-account-guide.html)
+- [Instagram 被限制 / 操作被阻止怎么办](https://chuhao.shop/guide/instagram-action-blocked.html)
+- [TikTok 怎么切换地区](https://chuhao.shop/guide/tiktok-region-switch.html)
+- [TikTok 视频没流量：先查这四点](https://chuhao.shop/guide/tiktok-no-traffic.html)
+- [小火箭（Shadowrocket）成品号是什么](https://chuhao.shop/guide/what-is-shadowrocket.html)
+- [邮箱账号怎么选：Outlook / Hotmail / Gmail](https://chuhao.shop/guide/email-account-choose.html)
+- [接码平台怎么用：收不到短信的终极方案](https://chuhao.shop/guide/sms-receive-platform.html)
+
+## 姊妹站
+
+- [yuantou.one](https://yuantou.one/) — 源头网 — 源头货源与攻略库
+
+## 官方价参考（2026-10-14 核对）
+
+| 服务 | 档位 | 官方价 |
+|---|---|---|
+| Telegram Premium | 月付 / 年付（美区） | $4.99/月 · $35.99/年 |
+| Telegram Premium | 礼物 3 / 6 / 12 个月 | ≈ $13.19 / $17.59 / $31.89 |
+| X（推特） | Basic / Premium / Premium+（网页端） | $3 / $8 / $40 每月 |
+| X（推特） | 各区价格不同 | 例：土耳其区 Premium ≈ $4.05/月 |
+
+> 官方标价；X 与 Telegram 各区分区定价，实际以你账号结算页显示为准。
+
+
+---
+
+*本文档为公开信息整理，价格与政策以官方页面为准；本站攻略库持续更新。*
