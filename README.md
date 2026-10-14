@@ -126,8 +126,7 @@ AI 类账号的核心是 **套餐类型**，不是价格：
 
 本文档采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可，欢迎转载与引用。
 
-<!-- 攻略深链索引 -->
-
+<!-- AUTO:START -->
 ## 按问题查攻略
 
 下面每条对应一篇完整攻略，遇到具体问题直接点进去看：
@@ -167,3 +166,36 @@ AI 类账号的核心是 **套餐类型**，不是价格：
 ---
 
 *本文档为公开信息整理，价格与政策以官方页面为准；本站攻略库持续更新。*
+
+<!-- AUTO:EXTRA:START -->
+
+## 更多攻略（自动同步）
+
+以下是本站攻略库中与本主题相关的其他文章：
+
+- [2026 苹果 ID 余额怎么充：兑换失败与买不了东西的排查](https://chuhao.shop/guide/apple-id-balance-topup.html)
+- [提示「你的账户已在 App Store 和 iTunes 中被禁用」：含义、原因与处理顺序](https://chuhao.shop/guide/apple-id-disabled-appstore.html)
+- [Apple ID 被停用 / 被锁，怎么申诉才能救回来](https://chuhao.shop/guide/apple-id-locked-appeal.html)
+- [「此 Apple ID 已被锁定」：什么时候能自己解锁，什么时候不能](https://chuhao.shop/guide/apple-id-locked-self-unlock.html)
+- [提示「此 Apple ID 尚未在 App Store 使用过」怎么办？](https://chuhao.shop/guide/apple-id-not-in-app-store.html)
+- [苹果 ID 用错顺序，等于把买的应用丢掉](https://chuhao.shop/guide/apple-id-notice.html)
+- [Apple ID 一直要验证码 / 收不到？验证码其实不是发短信给你](https://chuhao.shop/guide/apple-id-verification-code-loop.html)
+- [「无法验证您的 Apple ID」：先分清是网络问题还是账号被风控](https://chuhao.shop/guide/apple-id-verify-required.html)
+- [Codex 怎么用：先搞懂它和 ChatGPT 的关系](https://chuhao.shop/guide/codex-guide.html)
+- [Codex 手机验证：卡在哪、怎么一次过](https://chuhao.shop/guide/codex-sms-verify.html)
+- [2026 Facebook 号被停用/要验证怎么做](https://chuhao.shop/guide/facebook-account-disabled.html)
+- [2026 免费 Apple ID 共享账号：最新可用清单与防失效](https://chuhao.shop/guide/free-apple-id-2026.html)
+- [免费港区 Apple ID（共享账号）怎么领](https://chuhao.shop/guide/free-hk-apple-id.html)
+- [免费日区 Apple ID（共享账号）怎么领](https://chuhao.shop/guide/free-jp-apple-id.html)
+- [免费美区 Apple ID 账号密码怎么领](https://chuhao.shop/guide/free-us-apple-id.html)
+- [共享 Apple ID 怎么登才安全？](https://chuhao.shop/guide/how-to-login-shared-apple-id.html)
+- [2026 Instagram 注册收不到验证码：原因与解决顺序](https://chuhao.shop/guide/instagram-register-code.html)
+- [小火箭订阅失效 / 节点连不上：三步定位问题在哪一环](https://chuhao.shop/guide/shadowrocket-subscribe-failed.html)
+- [用共享 Apple ID 下载小火箭：要密码、装不上怎么办](https://chuhao.shop/guide/shared-id-download-shadowrocket.html)
+- [2026 TikTok 账号换绑邮箱与手机号的完整步骤](https://chuhao.shop/guide/tiktok-email-phone-change.html)
+- [TikTok 提示 Too many attempts：这是风控，不是封号](https://chuhao.shop/guide/tiktok-login-too-many-attempts.html)
+- [TikTok 号没流量，先检查地区和网络](https://chuhao.shop/guide/tiktok-region-guide.html)
+
+> 本区块由脚本自动维护（站内新增攻略会自动补入），手工改动会在下次同步时被覆盖。
+<!-- AUTO:EXTRA:END -->
+<!-- AUTO:END -->
