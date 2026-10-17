@@ -179,6 +179,7 @@ AI 类账号的核心是 **套餐类型**，不是价格：
 - [「此 Apple ID 已被锁定」：什么时候能自己解锁，什么时候不能](https://chuhao.shop/guide/apple-id-locked-self-unlock.html)
 - [提示「此 Apple ID 尚未在 App Store 使用过」怎么办？](https://chuhao.shop/guide/apple-id-not-in-app-store.html)
 - [苹果 ID 用错顺序，等于把买的应用丢掉](https://chuhao.shop/guide/apple-id-notice.html)
+- [苹果 ID 独享和共享有什么区别？价格差多少（43 款对照）](https://chuhao.shop/guide/apple-id-shared-vs-private.html)
 - [Apple ID 一直要验证码 / 收不到？验证码其实不是发短信给你](https://chuhao.shop/guide/apple-id-verification-code-loop.html)
 - [「无法验证您的 Apple ID」：先分清是网络问题还是账号被风控](https://chuhao.shop/guide/apple-id-verify-required.html)
 - [Codex 怎么用：先搞懂它和 ChatGPT 的关系](https://chuhao.shop/guide/codex-guide.html)
@@ -192,9 +193,12 @@ AI 类账号的核心是 **套餐类型**，不是价格：
 - [2026 Instagram 注册收不到验证码：原因与解决顺序](https://chuhao.shop/guide/instagram-register-code.html)
 - [小火箭订阅失效 / 节点连不上：三步定位问题在哪一环](https://chuhao.shop/guide/shadowrocket-subscribe-failed.html)
 - [用共享 Apple ID 下载小火箭：要密码、装不上怎么办](https://chuhao.shop/guide/shared-id-download-shadowrocket.html)
+- [接码平台怎么选？按你要注册的服务挑线路（7 条线真实价格）](https://chuhao.shop/guide/sms-platform-compare.html)
+- [TikTok 账号买哪个国家好？23 国同一价，只有美区贵 1.4 倍](https://chuhao.shop/guide/tiktok-account-country.html)
 - [2026 TikTok 账号换绑邮箱与手机号的完整步骤](https://chuhao.shop/guide/tiktok-email-phone-change.html)
 - [TikTok 提示 Too many attempts：这是风控，不是封号](https://chuhao.shop/guide/tiktok-login-too-many-attempts.html)
 - [TikTok 号没流量，先检查地区和网络](https://chuhao.shop/guide/tiktok-region-guide.html)
+- [2026 WhatsApp 注册收不到验证码怎么办：按原因逐条排查](https://chuhao.shop/guide/whatsapp-account-register.html)
 
 > 本区块由脚本自动维护（站内新增攻略会自动补入），手工改动会在下次同步时被覆盖。
 <!-- AUTO:EXTRA:END -->
